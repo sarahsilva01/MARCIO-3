@@ -1,4 +1,5 @@
-🚗 McQueen Story App
+🚗 McQueen 
+
 📖 Descrição
 O McQueen Story App é um aplicativo desenvolvido em Flutter que apresenta toda a trajetória do Relâmpago McQueen, personagem icônico da franquia Carros da Disney Pixar. O aplicativo tem como objetivo informar e entreter, trazendo detalhes sobre sua história, evolução nos filmes, curiosidades e muito mais.
 
