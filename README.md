@@ -24,7 +24,9 @@ Tela de perguntas
 🌐 Versão Web
 A versão Web será disponibilizada assim que a plataforma FlutLab permitir a compilação. No momento, o ambiente está restrito.
 
-🎥 Demonstração em vídeo
 
-(https:WhatsApp Video 2025-06-14 at 22.49.50.mp4)
+🎬 Demonstração do App
+
+https://github.com/user-attachments/assets/de431c15-ee66-4ac8-8fa6-45d9b3b2b48b
+
 
