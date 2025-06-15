@@ -21,18 +21,10 @@ Tela de Personagens
 
 Tela de perguntas 
 
-🚀 Tecnologias utilizadas
-Flutter (Dart)
-
-Firebase (Realtime Database ou Firestore + Storage)
-
-Consumo de APIs REST
-
-Gerenciamento de estado (Provider, Riverpod ou outro)
- 
-✅ Requisitos
-Ter o Flutter instalado (Guia de instalação)
-
-Dispositivo físico ou emulador configurado
+🌐 Versão Web
+A versão Web será disponibilizada assim que a plataforma FlutLab permitir a compilação. No momento, o ambiente está restrito.
 
 🎥 Demonstração em vídeo
+
+(https:WhatsApp Video 2025-06-14 at 22.49.50.mp4)
+
